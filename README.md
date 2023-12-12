@@ -1,59 +1,35 @@
-<div align="center">
-  <img height="200" src="https://storage.googleapis.com/gcs-cockpit-prod/uploads/530/1655887584.png"  />
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Preeti Saini
+====================================================================================================================================
 
-###
+Data Analyst
+------------
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/preetisainiofficial/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/preetisaini" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="analyzewdpreeti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+A passionate data enthusiast on a mission to unravel the stories hidden within datasets. As a dedicated Data Analyst, I thrive on transforming raw numbers into actionable insights that drive informed decision-making.
 
-###
+* 🖥️  See my portfolio at [MyPortfolio](http://linktr.ee/preeti_saini)
+* ✉️  You can contact me at [analyzewdpreeti@gmail.com](mailto:analyzewdpreeti@gmail.com)
+* 🧠  I'm learning Data Analytics
+* ⚡  Fun fact : Coded with love and a touch of magic! ✨
 
-<h1 align="center">Hi👋, I'm Preeti Saini</h1>
+<a href="https://www.github.com/preetisaini06" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/preetisaini06?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
-###
+### Skills
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-<p align="left">A Passionate Data Analyst<br><br>- 📚 I'm currently learning Data Analytics<br>-📫 How to reach me : analyzewdpreeti@gmail.com<br>- ⚡Fun fact : Coded with love and a touch of magic! ✨</p>
 
-###
+### Socials
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left"> <a href="https://www.github.com/preetisaini06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/preetisainiofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@analyzewdpreeti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-###
+### Badges
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/preetisaini06"><img src="https://github-readme-stats.vercel.app/api?username=preetisaini06&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=64748b&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="preetisaini06's GitHub stats" /></a>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<a href="http://www.github.com/preetisaini06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preetisaini06&stroke=64748b&background=ffffff&ring=f97316&fire=f97316&currStreakNum=64748b&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
